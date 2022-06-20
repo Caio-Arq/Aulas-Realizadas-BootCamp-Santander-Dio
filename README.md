@@ -17,7 +17,7 @@ Vamos Conhecer toda a trajetória do BootCamp Santander/Dio 2022:
 - Introdução ao Git e ao GitHub = 100%
 - Criando seu Primeiro Repositório no GitHub para compartilhar seu Progresso = 99%
 
-- TOTAL CONCLUÍDO = 99%
+- TOTAL CONCLUÍDO = 100%
 
 
 ### Módulo II - HTML/CSS3/JS
